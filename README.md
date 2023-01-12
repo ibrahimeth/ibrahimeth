@@ -1,4 +1,4 @@
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ibrahimeth)](https://github.com/anuraghazra/github-readme-stats)
+loading...
 
 <!---
 ibrahimeth/ibrahimeth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
