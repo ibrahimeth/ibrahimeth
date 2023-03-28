@@ -8,8 +8,6 @@
 # 📊 GitHub Stats:
 <div>
   <img align= top src = "https://github-readme-stats.vercel.app/api?username=ibrahimeth&theme=yeblu&hide_border=true&include_all_commits=false&count_private=true"/>
-  <img align= top src  ="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimeth&theme=yeblu&hide_border=true"/>
  </div>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
