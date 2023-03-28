@@ -9,16 +9,7 @@
 <div>
   <img align= top src = "https://github-readme-stats.vercel.app/api?username=ibrahimeth&theme=yeblu&hide_border=true&include_all_commits=false&count_private=true"/>
   <img align= top src  ="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimeth&theme=yeblu&hide_border=true"/>
- </di>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ibrahimeth&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
+ </div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=ibrahimeth&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
