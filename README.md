@@ -1,7 +1,7 @@
 <div>
 class ibrahimeth{ <br>
 &nbsp  public static void main(String [] args){<br>
-&nbsp &nbsp    System.out.println("🌱 Hello There !");<br>
+&nbsp &nbsp    System.out.println("Merhaba Asker💂!");<br>
 &nbsp }<br>
 }<br>
 
