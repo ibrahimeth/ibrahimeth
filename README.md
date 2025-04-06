@@ -1,7 +1,7 @@
 <pre>
 class ibrahimeth{ 
     public static void main(String [] args){
-        System.out.println("Merhaba Asker💂!");
+        System.out.println("Hello Soldier💂!");
     }
 }
 </pre>
